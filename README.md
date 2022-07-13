@@ -1,6 +1,6 @@
 # 👾 Terminal
 
-Determine your Terminal size.
+Determine your Terminal size with node.
 
 ## Introduction
 
