@@ -11,6 +11,7 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "jest"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/midonis/terminal.git"
@@ -22,7 +23,6 @@
     "name": "Filip Petrovic",
     "email": "filip@midonis.com"
   },
-  "license": "MIT",
   "devDependencies": {
     "@swc/core": "^1.2.172",
     "@swc/jest": "^0.2.20",
