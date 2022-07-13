@@ -1,7 +1,7 @@
 {
   "name": "@midonis/terminal",
   "version": "1.0.0",
-  "description": "Determine your Terminal size.",
+  "description": "Determine your Terminal size with Node.js.",
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ignore-path .gitignore . --ext .ts",
