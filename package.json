@@ -2,6 +2,9 @@
   "name": "@midonis/terminal",
   "version": "1.0.0",
   "description": "Determine your Terminal size with Node.js.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ignore-path .gitignore . --ext .ts",
