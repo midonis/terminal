@@ -1,6 +1,6 @@
 # 👾 Terminal
 
-Determine your Terminal size with node.
+Determine your Terminal size with Node.js.
 
 ## Introduction
 
