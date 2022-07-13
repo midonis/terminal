@@ -3,6 +3,8 @@ import process from 'node:process';
 export class Terminal {
 	/**
 	 * Get the Terminal width.
+	 *
+	 * @returns number
 	 */
 	public static width(): number
 	{
@@ -14,6 +16,8 @@ export class Terminal {
 
 	/**
 	 * Get the Terminal height.
+	 *
+	 * @returns number
 	 */
 	public static height(): number
 	{
