@@ -1,15 +1,33 @@
-# 🚀 TypeScript Skeleton
+# 👾 Terminal
 
-Start your next TypeScript package idea with this simple boilerplate.
+Determine your Terminal size.
 
-## Getting Started
+## Introduction
 
-- Install the dependencies: `npm install`
-- Execute the tests: `npm run test`
-- Check linter errors: `npm run lint`
-- Fix linter errors: `npm run lint:fix`
-- Build your files: `npm run build`
+### `Terminal.width()`
+
+The `Terminal.width` method returns the current width of the console:
+
+```ts
+import { Terminal } from "@midonis/terminal"
+
+Terminal.width()
+
+// 20
+```
+
+### `Terminal.height()`
+
+The `Terminal.height` method returns the current height of the console:
+
+```ts
+import { Terminal } from "@midonis/terminal"
+
+Terminal.height()
+
+// 80
+```
 
 ## License
 
-@midonis/skeleton is an open-sourced software licensed under the [MIT license](LICENSE.md).
+@midonis/terminal is an open-sourced software licensed under the [MIT license](LICENSE.md).
