@@ -1,4 +1,4 @@
-export class Skeleton {
+export class Terminal {
   public constructor() {
     //
   }
