@@ -1,7 +1,7 @@
 {
-  "name": "@midonis/skeleton",
+  "name": "@midonis/terminal",
   "version": "1.0.0",
-  "description": "A skeleton for TypeScript packages.",
+  "description": "Determine your Terminal size.",
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ignore-path .gitignore . --ext .ts",
