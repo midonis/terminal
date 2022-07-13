@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/midonis/skeleton.git"
+    "url": "git+https://github.com/midonis/terminal.git"
   },
   "bugs": {
-    "url": "https://github.com/midonis/skeleton/issues"
+    "url": "https://github.com/midonis/terminal/issues"
   },
   "author": {
     "name": "Filip Petrovic",
