@@ -8,4 +8,8 @@ describe("Terminal", () => {
   it("returns the terminal height", () => {
     expect(typeof Terminal.height()).toBe("number");
   });
+
+  it("returns the terminal size", () => {
+    expect(typeof Terminal.size()).toBe("object");
+  });
 });

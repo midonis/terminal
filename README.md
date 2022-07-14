@@ -13,7 +13,7 @@ import { Terminal } from "@midonis/terminal"
 
 Terminal.width()
 
-// 20
+// 80
 ```
 
 ### `Terminal.height()`
@@ -25,7 +25,19 @@ import { Terminal } from "@midonis/terminal"
 
 Terminal.height()
 
-// 80
+// 20
+```
+
+### `Terminal.size()`
+
+The `Terminal.size` method returns the current width and height of the console:
+
+```ts
+import { Terminal } from "@midonis/terminal"
+
+Terminal.size()
+
+// { width: 80, height: 20 }
 ```
 
 ## License

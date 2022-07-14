@@ -22,4 +22,16 @@ export class Terminal {
 
     return process.stdout.getWindowSize()[1];
   }
+
+  /**
+   * Get the Terminal size in width and height.
+   *
+   * @returns object
+   */
+  public static size(): { width: number; height: number } {
+    return {
+      width: this.width(),
+      height: this.height(),
+    };
+  }
 }
