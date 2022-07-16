@@ -2,6 +2,13 @@
 
 Determine your Terminal size with Node.js.
 
+## Installation
+
+Using npm:
+```sh
+npm install @midonis/terminal
+```
+
 ## Introduction
 
 ### `Terminal.width()`
